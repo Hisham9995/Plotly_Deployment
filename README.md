@@ -6,7 +6,7 @@ This Analysis is about creating  a panel for demographic information on belly  i
 
 ## The results 
 
-  ![](Resources/Web.png')
+  ![](/Resources/Web.png)
 
 There are three diferent files "Index.html" ,"charts.js" and "style.css"  this analysis is including three charts  a bubble chart contains different bubbles with a different colors to distinguish between the becteria and to get an idea about  the amount  per sample , a bar chart shows the top 10 becetria in the belly button and lastly  is a guage chart that shows how many times do the voulnteers wash their belly button per  week  The dashboard is able to be filtered by the different bacteria ID's in a drop down menu.
 
